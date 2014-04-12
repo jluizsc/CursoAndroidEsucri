@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">UmProjetoNaNet</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Ola Mundo</string>
+    <string name="button">Botão!</string>
+    <string name="address">endereco</string>
+    <string name="email">e mail</string>
+
+</resources>

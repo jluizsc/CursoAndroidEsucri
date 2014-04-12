@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    version="2.0"
+    xml:base="http://www.nasa.gov/" >
+
+    <channel>
+
+        <title>
+NASA Image of the Day
+        </title>
+
+        <description>
+The latest NASA &quot;Image of the Day&quot; image.
+        </description>
+
+        <link>
+http://www.nasa.gov/
+        </link>
+
+        <atom:link
+            href="http://www.nasa.gov/rss/dyn/image_of_the_day.rss"
+            rel="self" />
+
+        <language>
+en-us
+        </language>
+
+        <managingEditor>
+yvette.smith-1@nasa.gov
+        </managingEditor>
+
+        <webMaster>
+brian.dunbar@nasa.gov
+        </webMaster>
+
+        <docs>
+http://blogs.law.harvard.edu/tech/rss
+        </docs>
+
+        <item>
+
+            <title>
+Shadow Portrait of NASA Rover Opportunity on Martian Slope
+            </title>
+
+            <link>
+http://www.nasa.gov/jpl/mer/shadow-portrait-pia17956
+            </link>
+
+            <description>
+NASA&#039;s Mars Exploration Rover Opportunity caught its own silhouette in this late-afternoon image taken by the rover&#039;s rear hazard avoidance camera. This camera is mounted low on the rover and has a wide-angle lens.
+The image was taken looking eastward shortly before sunset on the 3,609th Martian day, or sol, of Opportunity&#039;s work on Mars (March 20, 2014). The rover&#039;s shadow falls across a slope called the McClure-Beverlin Escarpment on the western rim of Endeavour Crater, where Opportunity is investigating rock layers for evidence about ancient environments.  The scene includes a glimpse into the distance across the 14-mile-wide (22-kilometer-wide) crater.
+Image Credit: NASA/JPL-Caltech
+            </description>
+
+            <enclosure
+                length="103012"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/pia17956.jpg?itok=jOLEw_p4" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/jpl/mer/shadow-portrait-pia17956
+            </guid>
+
+            <pubDate>
+Fri, 28 Mar 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+NASA’s Super Guppy Makes a Special Delivery
+            </title>
+
+            <link>
+http://www.nasa.gov/centers/marshall/multimedia/photos/2014/super-guppy-cryotank.html
+            </link>
+
+            <description>
+NASA’s Super Guppy, a wide-bodied cargo aircraft, landed at the Redstone Army Airfield near Huntsville, Ala. on March 26 with a special delivery: an innovative composite rocket fuel tank. The tank was manufactured at the Boeing Developmental Center in Tukwila, Wash. The tank will be unloaded from the Super Guppy, which has a hinged nose that opens and allows large cargos like the tank to be easily unloaded. After the tank is removed from the Super Guppy, it will be inspected and prepared for testing at NASA’s Marshall Space Flight Center in Huntsville, Ala. The composite tank project is part of the Game Changing Development Program and NASA&#039;s Space Technology Mission Directorate.
+Image credit: NASA/MSFC/Emmett Given
+› Alternate view #1
+	› Alternate view #2
+	› Flickr: Super Guppy and Cryotank
+            </description>
+
+            <enclosure
+                length="1955276"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/elg3077.jpg?itok=wa4LVjfX" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/centers/marshall/multimedia/photos/2014/super-guppy-cryotank.html
+            </guid>
+
+            <pubDate>
+Thu, 27 Mar 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+Landslide and Barrier Lake Near Oso, Washington
+            </title>
+
+            <link>
+http://www.nasa.gov/content/landslide-and-barrier-lake-near-oso-washington
+            </link>
+
+            <description>
+On March 22, 2014, a rainfall-triggered landslide near Oso, Washington sent muddy debris spilling across the North Fork of the Stillaguamish River. The slide left an earthen dam that blocked the river, causing a barrier lake to form. The Operational Land Imager (OLI) on the Landsat 8 satellite acquired this image of landslide debris and the barrier lake on March 23, 2014.
+&gt; Read more and view annotated image
+Image Credit: NASA Earth Observatory image by Jesse Allen, using Landsat data from the U.S. Geological Survey
+	Caption: Adam Voiland
+            </description>
+
+            <enclosure
+                length="416164"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/oso_oli_2014082_lrg-1000.jpg?itok=SmivqE75" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/content/landslide-and-barrier-lake-near-oso-washington
+            </guid>
+
+            <pubDate>
+Wed, 26 Mar 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+Expedition 39 Crew Launches Aboard the Soyuz TMA-12M Rocket
+            </title>
+
+            <link>
+http://www.nasa.gov/content/expedition-39-crew-launches-aboard-the-soyuz-tma-12m-rocket
+            </link>
+
+            <description>
+The Soyuz TMA-12M rocket launches from Baikonur Cosmodrome in Kazakhstan on  Wednesday, March 26, 2014 carrying Expedition 39 Soyuz Commander Alexander Skvortsov of the Russian Federal Space Agency, Roscosmos, Flight Engineer Steven Swanson of NASA, and Flight Engineer Oleg Artemyev of Roscosmos to the International Space Station.
+Image Credit: NASA/Joel Kowsky
+            </description>
+
+            <enclosure
+                length="1002939"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/13414404843_01d575453b_o.jpg?itok=5WXocivU" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/content/expedition-39-crew-launches-aboard-the-soyuz-tma-12m-rocket
+            </guid>
+
+            <pubDate>
+Tue, 25 Mar 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+Expedition 39 Prepares for Today&#039;s Launch
+            </title>
+
+            <link>
+http://www.nasa.gov/content/expedition-39-prepares-for-todays-launch
+            </link>
+
+            <description>
+The gantry arms begin to close around the Soyuz TMA-12M spacecraft to secure the rocket at the launch pad on Sunday, March 23, 2014, at the Baikonur Cosmodrome in Kazakhstan. Launch of the Soyuz rocket is scheduled for 5:17 p.m. EDT, March 25 and will send Expedition 39 Soyuz Commander Alexander Skvortsov of the Russian Federal Space Agency, Roscosmos, Flight Engineer Steven Swanson of NASA, and Flight Engineer Oleg Artemyev of Roscosmos on a six-month mission aboard the International Space Station. 
+Image Credit: NASA/Joel Kowsky
+            </description>
+
+            <enclosure
+                length="1691370"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/13348922155_7cfb44c39d_o.jpg?itok=0_BnGPcE" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/content/expedition-39-prepares-for-todays-launch
+            </guid>
+
+            <pubDate>
+Tue, 25 Mar 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+Expedition 39 Soyuz Rollout
+            </title>
+
+            <link>
+http://www.nasa.gov/content/expedition-39-soyuz-rollout
+            </link>
+
+            <description>
+The sun rises behind the Soyuz launch pad shortly before the Soyuz TMA-12M spacecraft is rolled out by train to the launch pad at the Baikonur Cosmodrome, Kazakhstan, Sunday, March, 23, 2014. Launch of the Soyuz rocket is scheduled for March 26 (5:17 p.m. U.S. EDT on March 25) and will send Expedition 39 Soyuz Commander Alexander Skvortsov of the Russian Federal Space Agency, Roscosmos, Flight Engineer Steven Swanson of NASA, and Flight Engineer Oleg Artemyev of Roscosmos on a six-month mission aboard the International Space Station. 
+ 
+Credit: NASA/Bill Ingalls
+            </description>
+
+            <enclosure
+                length="4041380"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/13349135204_4dd764b5bd_o.jpg?itok=2xZwqfTD" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/content/expedition-39-soyuz-rollout
+            </guid>
+
+            <pubDate>
+Mon, 24 Mar 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+Hubble Peers at the Heart of NGC 5793
+            </title>
+
+            <link>
+http://www.nasa.gov/content/goddard/hubble-peers-at-the-heart-of-ngc-5793
+            </link>
+
+            <description>
+This new Hubble image is centered on NGC 5793, a spiral galaxy over 150 million light-years away in the constellation of Libra. This galaxy has two particularly striking features: a beautiful dust lane and an intensely bright center — much brighter than that of our own galaxy, or indeed those of most spiral galaxies we observe.
+NGC 5793 is a Seyfert galaxy. These galaxies have incredibly luminous centers that are thought to be caused by hungry supermassive black holes — black holes that can be billions of times the size of the sun — that pull in and devour gas and dust from their surroundings.
+This galaxy is of great interest to astronomers for many reasons. For one, it appears to house objects known as masers. Whereas lasers emit visible light, masers emit microwave radiation. The term &quot;masers&quot; comes from the acronym Microwave Amplification by Stimulated Emission of Radiation. Maser emission is caused by particles that absorb energy from their surroundings and then re-emit this in the microwave part of the spectrum.
+Naturally occurring masers, like those observed in NGC 5793, can tell us a lot about their environment; we see these kinds of masers in areas where stars are forming. In NGC 5793 there are also intense mega-masers, which are thousands of times more luminous than the sun.
+ 
+Credit:  NASA, ESA, and E. Perlman (Florida Institute of Technology)
+            </description>
+
+            <enclosure
+                length="112985"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/potw1411a.jpg?itok=D6BxQxTu" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/content/goddard/hubble-peers-at-the-heart-of-ngc-5793
+            </guid>
+
+            <pubDate>
+Fri, 21 Mar 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+Coastal Flooding in New Zealand, Early March
+            </title>
+
+            <link>
+http://www.nasa.gov/content/coastal-flooding-in-new-zealand-early-march
+            </link>
+
+            <description>
+A powerful storm passed over New Zealand’s South Island in March 2014 and brought gale-force winds, torrential rains, and flooding to the city of Christchurch. A total of 74 millimeters (3 inches) of rain fell on March 4-5, according to MetService, New Zealand’s national meteorological service. More than 100 homes flooded and more than 4,000 lost power around the country’s third most populous city. Skies had cleared enough by March 6, 2014, for the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA’s Aqua satellite to acquire this image showing the aftermath.
+Coastal communities are becoming increasingly vulnerable to the risk of damage and danger from flooding. NASA and NOAA are together launching a new opportunity for citizens to work with us on the very important topic of coastal flooding. This coastal flooding challenge is part of NASA’s third International Space Apps Challenge - a two-day global mass collaboration event on April 12-13, 2014. During these two days, citizens around the world are invited to engage directly with NASA to develop awe-inspiring software, hardware, and data visualizations. Last year’s event involved more than 9,000 global participants in 83 locations. This year will introduce more than 60 robust challenges clustered in five themes: asteroids, Earth watch, human spaceflight, robotics, and space technology. The Coastal Inundation In Your Community challenge is one of four climate-related challenges using data provided by NASA, NOAA and EPA.
+&gt; 2014 International Space Apps Challenge: Coastal Inundation in Your Community
+	&gt; NASA Invites Citizens to Collaborate on Coastal Flooding Challenge
+Image Credit: NASA - Jeff Schmaltz, LANCE/EOSDIS MODIS Rapid Response Team at NASA GSFC
+            </description>
+
+            <enclosure
+                length="843155"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/newzealand_amo_2014065_lrg.jpg?itok=63sutqS-" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/content/coastal-flooding-in-new-zealand-early-march
+            </guid>
+
+            <pubDate>
+Thu, 20 Mar 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+Jupiter&#039;s Great Red Spot Viewed by Voyager I
+            </title>
+
+            <link>
+http://www.nasa.gov/content/jupiters-great-red-spot-viewed-by-voyager-i
+            </link>
+
+            <description>
+At about 89,000 miles in diameter, Jupiter could swallow 1,000 Earths. It is the largest planet in the solar system and perhaps the most majestic. Vibrant bands of clouds carried by winds that can exceed 400 mph continuously circle the planet&#039;s atmosphere. Such winds sustain spinning anticyclones like the Great Red Spot -- a raging storm three and a half times the size of Earth located in Jupiter’s southern hemisphere. In January and February 1979, NASA&#039;s Voyager 1 spacecraft zoomed toward Jupiter, capturing hundreds of images during its approach, including this close-up of swirling clouds around Jupiter&#039;s Great Red Spot. This image was assembled from three black and white negatives. The observations revealed many unique features of the planet that are still being explored to this day.
+&gt; View more images and watch a time-lapse of Jupiter assembled from images taken by the spacecraft
+Credit: NASA&#039;s Goddard Space Flight Center. Video and images courtesy of NASA/JPL
+            </description>
+
+            <enclosure
+                length="8580019"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/p50142.jpg?itok=LSkKKupA" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/content/jupiters-great-red-spot-viewed-by-voyager-i
+            </guid>
+
+            <pubDate>
+Wed, 19 Mar 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+NASA Releases First Interactive Mosaic of Lunar North Pole
+            </title>
+
+            <link>
+http://www.nasa.gov/content/nasa-releases-first-interactive-mosaic-of-lunar-north-pole
+            </link>
+
+            <description>
+Scientists, using cameras aboard NASA&#039;s Lunar Reconnaissance Orbiter (LRO), have created the largest high resolution mosaic of our moon’s north polar region. The six-and-a-half feet (two-meters)-per-pixel images cover an area equal to more than one-quarter of the United States.
+The images making up the mosaic were taken by the two LRO Narrow Angle Cameras, which are part of the instrument suite known as the Lunar Reconnaissance Orbiter Camera (LROC). The cameras can record a tremendous dynamic range of lit and shadowed areas.
+Web viewers can zoom in and out, and pan around an area. Constructed from 10,581 pictures, the mosaic provides enough detail to see textures and subtle shading of the lunar terrain. Consistent lighting throughout the images makes it easy to compare different regions.
+To view the image with zoom and pan capability, visit: http://lroc.sese.asu.edu/gigapan.
+Image Credit: NASA/GSFC/Arizona State University
+            </description>
+
+            <enclosure
+                length="3312022"
+                type="image/png"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/gigapan_small_str01.png?itok=O2QgckFt" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/content/nasa-releases-first-interactive-mosaic-of-lunar-north-pole
+            </guid>
+
+            <pubDate>
+Tue, 18 Mar 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+    </channel>
+
+</rss>
